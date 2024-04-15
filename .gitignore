@@ -1,0 +1,20 @@
+# Dependencias
+/node_modules
+
+# Archivos de configuración
+.env
+
+# Archivos generados por el sistema
+.DS_Store
+
+# Logs y archivos de salida
+logs
+*.log
+
+# Archivos de compilación
+/dist
+
+# Dependencias de desarrollo
+/dev
+# TOKEN ACCESS
+/token.js
